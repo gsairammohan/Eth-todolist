@@ -15,7 +15,7 @@ This is a simple Blockchain web application to save Your daily tasks in order no
 * Install [Ganache](https://trufflesuite.com/ganache/)
 * Install Truffle Framework using npm install -g truffle@5.0.2
 * Install [MetaMask extension](https://metamask.io/)
-* Run the server and Connect the port to localhost:8000.
+* Run the server and Connect the port to localhost.
 
 ### Tech Stack Used
 * Solidity
