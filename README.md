@@ -23,26 +23,28 @@ This is a simple Blockchain web application to save Your daily tasks in order no
 * Ethereum Blockchain (plat-form).
 
 
+![WhatsApp Image 2022-07-16 at 9 40 03 PM](https://user-images.githubusercontent.com/95144222/179366608-15bcd0fc-c8b2-4e22-8cb6-0ac20a96c37f.jpeg)
 
-![WhatsApp Image 2022-07-16 at 10 04 41 PM](https://user-images.githubusercontent.com/95144222/179366452-5654d814-740f-4574-8bc5-3c696b113e0b.jpeg)
+
 
 
 
 ### Adding a new Task
 
 
+![WhatsApp Image 2022-07-16 at 9 56 55 PM](https://user-images.githubusercontent.com/95144222/179366618-5a335c72-80f0-491b-96ff-1548eeb190d6.jpeg)
 
 
-![WhatsApp Image 2022-07-16 at 10 05 37 PM](https://user-images.githubusercontent.com/95144222/179366566-d6811b8e-a1b0-4c84-9044-8c9abe61f71b.jpeg)
+![WhatsApp Image 2022-07-16 at 10 04 41 PM](https://user-images.githubusercontent.com/95144222/179366623-4fa52706-b9de-4fa3-8eec-1a7480eafbf9.jpeg)
 
-![WhatsApp Image 2022-07-16 at 10 04 41 PM](https://user-images.githubusercontent.com/95144222/179366503-81571a04-ada8-498d-b5f2-3c32e9e6f335.jpeg)
 
-![WhatsApp Image 2022-07-16 at 9![WhatsApp Image 2022-07-16 at 10 05 00 PM](https://user-images.githubusercontent.com/95144222/179366511-d18e0990-314e-4cd8-9edb-6bfee145a0fa.jpeg)
- 56 55 PM](https://user-images.githubusercontent.com/95144222/179366499-e987456e-0cd8-430f-8b7f-366df2d0a519.jpeg)
+![WhatsApp Image 2022-07-16 at 10 05 00 PM](https://user-images.githubusercontent.com/95144222/179366632-1b9beaec-d4ac-4819-91f4-33acdac3b5ce.jpeg)
+
 
 ### Marking a Task Completed
 
 
-![Uploading WhatsApp Image 2022-07-16 at 10.05.37 PM.jpeg…]()
+![WhatsApp Image 2022-07-16 at 10 05 37 PM](https://user-images.githubusercontent.com/95144222/179366636-9f655714-f112-4e7d-94fa-74c1567956a5.jpeg)
+
 
 
